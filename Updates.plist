@@ -10,9 +10,9 @@
        <key>Developer Identifier</key>
        <string>NUHCB3MQY8</string>
        <key>CFBundleVersion</key>
-       <string>0.1</string>
+       <string>0.1.1</string>
        <key>CFBundleShortVersionString</key>
-       <string>0.1</string>
+       <string>0.1.1</string>
        <key>URL</key>
        <string>http://cmorrell.com/downloads/9</string>
      </dict>
