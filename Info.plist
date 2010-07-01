@@ -7,13 +7,13 @@
 	<key>CFBundleDisplayName</key>
 	<string>Zend Debugger</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.cmorrell.zenddebugger</string>
+	<string>com.cmorrell.safari.zenddebugger</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
 	<string>0.1</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>0.1</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Bars</key>
@@ -65,11 +65,15 @@
 	<dict>
 		<key>Website Access</key>
 		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
 			<key>Level</key>
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://github.com/inxilpro/Zend-Debugger-Safari-Toolbar/raw/master/Updates.plist</string>
 	<key>Website</key>
-	<string>http://cmorrell.com</string>
+	<string>http://cmorrell.com/safari-extensions/zend-debugger</string>
 </dict>
 </plist>

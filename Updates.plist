@@ -6,11 +6,11 @@
    <array>
      <dict>
        <key>CFBundleIdentifier</key>
-       <string>com.cmorrell.zenddebugger</string>
+       <string>com.cmorrell.safari.zenddebugger</string>
        <key>Developer Identifier</key>
        <string>NUHCB3MQY8</string>
        <key>CFBundleVersion</key>
-       <string>1</string>
+       <string>0.1</string>
        <key>CFBundleShortVersionString</key>
        <string>0.1</string>
        <key>URL</key>
