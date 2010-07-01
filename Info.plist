@@ -15,7 +15,19 @@
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>Chrome</key>
-	<dict/>
+	<dict>
+		<key>Bars</key>
+		<array>
+			<dict>
+				<key>Filename</key>
+				<string>toolbar.html</string>
+				<key>Identifier</key>
+				<string>zend_debugger</string>
+				<key>Label</key>
+				<string>Zend Debugger</string>
+			</dict>
+		</array>
+	</dict>
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
