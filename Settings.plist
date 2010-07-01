@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Debug Session Settings</string>
+		<key>Type</key>
+		<string>Group</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<true/>
+		<key>Key</key>
+		<string>debugLocalCopy</string>
+		<key>Title</key>
+		<string>Debug Local Copy (if available)</string>
+		<key>Type</key>
+		<string>CheckBox</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<false/>
+		<key>Key</key>
+		<string>breakOnFirstLine</string>
+		<key>Title</key>
+		<string>Break on the First Line</string>
+		<key>Type</key>
+		<string>CheckBox</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Zend Debugger Settings</string>
+		<key>Type</key>
+		<string>Group</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>auto</string>
+		<key>Key</key>
+		<string>detectMethond</string>
+		<key>Title</key>
+		<string>IP and Port Detection</string>
+		<key>Titles</key>
+		<array>
+			<string>Automatically Detect Settings</string>
+			<string>Manually Set Settings</string>
+		</array>
+		<key>Type</key>
+		<string>RadioButtons</string>
+		<key>Values</key>
+		<array>
+			<string>auto</string>
+			<string>manual</string>
+		</array>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<real>20080</real>
+		<key>Key</key>
+		<string>broadcastPort</string>
+		<key>Title</key>
+		<string>Zend Studio Broadcasting Port</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<real>10137</real>
+		<key>Key</key>
+		<string>debuggerPort</string>
+		<key>Title</key>
+		<string>Zend Debugger Port</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>127.0.0.1</string>
+		<key>Key</key>
+		<string>debuggerIpAddress</string>
+		<key>Title</key>
+		<string>Zend Debugger IP Address</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string></string>
+		<key>Key</key>
+		<string>debugAll</string>
+		<key>Type</key>
+		<string>Hidden</string>
+	</dict>
+</array>
+</plist>
