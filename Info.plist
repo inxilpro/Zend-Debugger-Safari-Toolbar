@@ -27,6 +27,25 @@
 				<string>Zend Debugger</string>
 			</dict>
 		</array>
+		<key>Global Page</key>
+		<string>index.html</string>
+		<key>Toolbar Items</key>
+		<array>
+			<dict>
+				<key>Command</key>
+				<string>toggleToolbar</string>
+				<key>Identifier</key>
+				<string>zend_debugger_button</string>
+				<key>Image</key>
+				<string>images/button-on.png</string>
+				<key>Label</key>
+				<string>Zend Debugger</string>
+				<key>Palette Label</key>
+				<string>Zend Debugger</string>
+				<key>Tool Tip</key>
+				<string>Toggle Zend Debugger Toolbar</string>
+			</dict>
+		</array>
 	</dict>
 	<key>Content</key>
 	<dict>
